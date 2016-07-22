@@ -1,7 +1,16 @@
 {
   "name": "optimus-code-style",
   "description": "bower module of optimus code style",
-  "main": "",
+  "main": [
+    ".eslintignore",
+    ".eslintrc",
+    ".eslintrc-reset",
+    ".gitignore",
+    ".jsinspectrc",
+    ".sass-lint.yml",
+    "BACKLOG.md",
+    "README.md"
+  ],
   "authors": [
     "Optimus"
   ],
