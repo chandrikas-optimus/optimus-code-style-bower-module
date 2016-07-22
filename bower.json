@@ -1,0 +1,22 @@
+{
+  "name": "optimus-code-style",
+  "description": "bower module of optimus code style",
+  "main": "",
+  "authors": [
+    "Optimus"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "grunt",
+    "optimus-code-style",
+    "git-hook"
+  ],
+  "homepage": "https://github.com/optimusinfo/OptimusReusableUIBoilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
